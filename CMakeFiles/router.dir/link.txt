@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/router.dir/MessageRouter.cpp.o CMakeFiles/router.dir/fatal.cpp.o  -o router -lnanomsg -lpthread 

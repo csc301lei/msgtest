@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/msgpub.dir/MessagePublisher.cpp.o CMakeFiles/msgpub.dir/fatal.cpp.o  -o msgpub -lprotobuf -lnanomsg -lpthread 

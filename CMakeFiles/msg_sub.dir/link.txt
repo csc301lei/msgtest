@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/msg_sub.dir/msg_sub.cpp.o  -o msg_sub -rdynamic -lnanomsg 

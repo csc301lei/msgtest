@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zero/msgtest/msg_pub.cpp
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+time.h
+-
+unistd.h
+-
+iostream
+-
+nanomsg/nn.h
+-
+nanomsg/pubsub.h
+-
+nanomsg/pipeline.h
+-
+

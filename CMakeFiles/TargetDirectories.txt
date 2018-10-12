@@ -1,0 +1,5 @@
+/home/zero/msgtest/CMakeFiles/rebuild_cache.dir
+/home/zero/msgtest/CMakeFiles/edit_cache.dir
+/home/zero/msgtest/CMakeFiles/msgsub.dir
+/home/zero/msgtest/CMakeFiles/msgpub.dir
+/home/zero/msgtest/CMakeFiles/router.dir

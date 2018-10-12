@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/msg_pub.dir/msg_pub.cpp.o  -o msg_pub -rdynamic -lnanomsg 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zero/msgtest/msg_sub.cpp
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+time.h
+-
+unistd.h
+-
+nanomsg/nn.h
+-
+nanomsg/pubsub.h
+-
+nanomsg/pipeline.h
+-
+
